@@ -40,7 +40,7 @@ app.use(function (req, res, next) {
 });
 const mongoose = require('mongoose');
 
-const connectionString = 'mongodb://127.0.0.1:27017/ecommerce';
+const connectionString = process.env.URL;
 
 mongoose.connect(connectionString, {
   useNewUrlParser: true,
