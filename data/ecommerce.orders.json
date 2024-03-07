@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "64d60fa13c34e624a2933e6a"
+  },
+  "fullname": "Full name",
+  "phone": "7428978165",
+  "locality": "asasa",
+  "city": "sasa",
+  "state": "asasa ww",
+  "zipCode": "1111",
+  "paymentMethod": "card",
+  "status": "Fulfilled",
+  "cart": [
+    {
+      "id": 4,
+      "name": "Shoes",
+      "price": 4000,
+      "quantity": 4,
+      "size": "8",
+      "_id": {
+        "$oid": "64ce642881824799650b646e"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 4000,
+      "quantity": 1,
+      "size": "L",
+      "_id": {
+        "$oid": "64ce642881824799650b646c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d623443c34e624a2933eee"
+  },
+  "fullname": "Harshit Gera",
+  "phone": "7428978165",
+  "locality": "123-A, Vikaspuri",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zipCode": "110018",
+  "paymentMethod": "card",
+  "status": "Fulfilled",
+  "cart": [
+    {
+      "id": 5,
+      "name": "Shoes",
+      "price": 8000,
+      "quantity": 2,
+      "size": "8",
+      "_id": {
+        "$oid": "64ce642881824799650b646f"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Jacket",
+      "price": 9000,
+      "quantity": 1,
+      "size": "L",
+      "_id": {
+        "$oid": "64ceb3d44aba41f32f4bf1f7"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Shoes",
+      "price": 6000,
+      "quantity": 2,
+      "size": "10",
+      "_id": {
+        "$oid": "64ce642881824799650b6471"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d646653c34e624a2933ffd"
+  },
+  "fullname": "Harshit Gera",
+  "phone": "7428978165",
+  "locality": "123-A, Vikaspuri",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zipCode": "110018",
+  "paymentMethod": "cash",
+  "status": "Fulfilled",
+  "cart": [
+    {
+      "id": 5,
+      "name": "Shoes",
+      "price": 8000,
+      "quantity": 1,
+      "size": "8",
+      "_id": {
+        "$oid": "64ce642881824799650b646f"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Jacket",
+      "price": 9000,
+      "quantity": 2,
+      "size": "L",
+      "_id": {
+        "$oid": "64ceb3d44aba41f32f4bf1f7"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db524aae08e50e67a0fe6d"
+  },
+  "fullname": "User32",
+  "phone": "7428978165",
+  "locality": "123-A, Vikaspuri",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zipCode": "110018",
+  "paymentMethod": "cash",
+  "status": "Declined",
+  "cart": [
+    {
+      "id": 5,
+      "name": "Shoes",
+      "price": 8000,
+      "quantity": 2,
+      "size": "8",
+      "_id": {
+        "$oid": "64ce642881824799650b646f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcca59f306a5c8ff636c30"
+  },
+  "fullname": "User abc",
+  "phone": "8433323123",
+  "locality": "123-A, Vikaspuri",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zipCode": "110018",
+  "paymentMethod": "cash",
+  "status": "Declined",
+  "cart": [
+    {
+      "id": 3,
+      "name": "Jeans",
+      "price": 10000,
+      "quantity": 1,
+      "size": "XXL",
+      "_id": {
+        "$oid": "64ce642881824799650b646d"
+      }
+    }
+  ],
+  "__v": 0
+}]

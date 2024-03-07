@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "64cfce71d2006b5bdefe5996"
+  },
+  "username": "hrst",
+  "phone": "445423232",
+  "email": "email.com",
+  "password": "hello123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d6229c3c34e624a2933ec7"
+  },
+  "username": "Hrst",
+  "phone": "7428978165",
+  "email": "kujoxd@gmail.com",
+  "password": "123456",
+  "cart": [
+    {
+      "id": 5,
+      "name": "Shoes",
+      "price": 8000,
+      "quantity": 2,
+      "size": "8",
+      "_id": {
+        "$oid": "64ce642881824799650b646f"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Tshirt",
+      "price": 2500,
+      "quantity": 1,
+      "size": "M",
+      "_id": {
+        "$oid": "64ce642881824799650b646b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d650c13c34e624a29340c6"
+  },
+  "username": "User3",
+  "phone": "8433323123",
+  "email": "xyz@gmail.com",
+  "password": "123456",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d65c08eaffd355a52011a2"
+  },
+  "username": "admin",
+  "phone": "445423232",
+  "email": "admin",
+  "password": "Harshit@2003",
+  "__v": 0,
+  "user_id": "25082003"
+},
+{
+  "_id": {
+    "$oid": "64d66d3a653b7287dbf5dceb"
+  },
+  "username": "Hrst2",
+  "phone": "7428978165",
+  "email": "kujoxd3@gmail.com",
+  "password": "1234",
+  "cart": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db51d6ae08e50e67a0fd9e"
+  },
+  "username": "User32",
+  "phone": "7428978165",
+  "email": "qwerty@gmail.com",
+  "password": "123456",
+  "cart": [],
+  "__v": 0
+}]
